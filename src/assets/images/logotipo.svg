@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="35" viewBox="0 0 230 35">
+    <defs>
+        <linearGradient id="a" x1="0%" x2="103.143%" y1="50%" y2="50%">
+            <stop offset="0%" stop-color="#4AC8D9"/>
+            <stop offset="100%" stop-color="#9EA5FF"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <text fill="url(#a)" font-family="Gotham-Bold, Gotham" font-size="46" font-weight="bold" transform="translate(-2 -3)">
+            <tspan x=".086" y="37">ekontent</tspan>
+        </text>
+        <path fill="#373737" d="M222 14h8v8h-8z"/>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+.eKontentNav{
+    width: 75%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.eKontentNav > a{
+    margin-right: 8.4%;
+    text-decoration: none;
+    font-family: Gotham;
+    font-size: 16px;
+    text-align: center;
+    color: #adadad;
+
+}
