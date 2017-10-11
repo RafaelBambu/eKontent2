@@ -2,3 +2,12 @@
     font-family: Gotham;
     src: url('assets/Gotham-Book/Gotham-Book.otf');
 }
+
+@font-face {
+    font-family: GothamBold;
+    src: url('assets/Gotham-Book/Gotham-Bold_0.otf');
+}
+
+body{
+    margin: 0;
+}
